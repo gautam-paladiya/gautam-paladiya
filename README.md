@@ -1,9 +1,9 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
 
-<p>Welcome to my page! </br> I'm Gautam Paladiya, FrontEnd Engineer in <img src="https://flagcdn.com/32x24/pl.png" width="20"/> <b>Warsaw, Poland</b>
+<p>Welcome to my page! </br> I'm Gautam Paladiya, Fullstack Engineer in <img src="https://flagcdn.com/32x24/pl.png" width="20"/> <b>Warsaw, Poland</b>
 
-- 🌱  I’m currently Working with MERN stack.
+- 🌱  I’m currently Working with the MERN stack.
 - 💬  Ask me about anything related to Javascript, Nextjs, React, GraphQL
 
 
